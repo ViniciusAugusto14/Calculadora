@@ -1,2 +1,2 @@
 # Calculadora
-https://viniciusaugusto14.github.io/Calculadora
+https://viniciusaugusto14.github.io/calculadora
